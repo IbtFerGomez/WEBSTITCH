@@ -1,0 +1,6 @@
+{
+  "name": "BioCell Consultores",
+  "description": "Consultoría especializada en cultivo celular, validación BPF/GMP y comisionamiento de laboratorios limpios en México y LATAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
